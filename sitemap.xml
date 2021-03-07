@@ -8,12 +8,14 @@
 
 
 <url>
-  <loc>https://web.iiit.ac.in/~shanu.gandhi/</loc>
+<!--   <loc>https://web.iiit.ac.in/~shanu.gandhi/</loc> -->
+  <loc>https://shanu-gandhi.github.io/</loc>
   <lastmod>2020-06-30T17:50:03+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://web.iiit.ac.in/~shanu.gandhi/index.html</loc>
+<!--   <loc>https://web.iiit.ac.in/~shanu.gandhi/index.html</loc> -->
+   <loc>https://shanu-gandhi.github.io/index.html</loc>
   <lastmod>2020-06-30T17:50:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
